@@ -1,0 +1,112 @@
+# Node.js
+node_modules/
+
+# Compiled binary addons (if any)
+build/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+.pnpm/
+.npm/
+.lock-wscript
+node_modules/
+.npmignore
+.npmrc
+.yarn-integrity
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# User-specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+log.txt
+*.log
+*.bak
+*.cache
+*.vscode/
+.vscode/
+.history
+
+# Environment variables
+.env
+
+# Production build
+/build
+
+# Ignore coverage directory
+coverage/
+
+# Ignore .env files as they often contain sensitive information
+.env*
+
+# Ignore yarn-error.log files
+yarn-error.log
+
+# Ignore dist directory for React build
+/dist
+
+# Ignore MongoDB data directory
+/data/db
+
+# Ignore .env.local files
+.env.local
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn debug log
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore .eslintcache
+.eslintcache
+
+# Ignore .yarn/cache directory
+.yarn/cache
+
+# Ignore .yarn/unplugged directory
+.yarn/unplugged
+
+# Ignore .yarn/build-state.yml file
+.yarn/build-state.yml
+
+# Ignore .yarn/install-state.gz file
+.yarn/install-state.gz
+
+# Ignore .yarn/releases directory
+.yarn/releases
+
+# Ignore coverage directory
+coverage
+
+# Ignore .vscode settings
+.vscode/settings.json
+.vscode/tasks.json
+
+# Ignore .vscode launch configuration
+.vscode/launch.json
